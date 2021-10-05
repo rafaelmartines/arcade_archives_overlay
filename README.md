@@ -1,7 +1,10 @@
 # Retroarch Arcade Archives Bezel
 This is a bezel made based on [HAMSTER's Arcade Archives](http://hamster.co.jp/american_hamster/arcadearchives/) series using [Gimp](https://www.gimp.org/).
 
-This project include horizontal and vertical bezels
+This project include horizontal and vertical bezels for the following resolutions:
+
+ - 2560x1080px
+ - 1920x1080px
 
 ## How to use the bezels
  1. Clone or download the project in your PC.
