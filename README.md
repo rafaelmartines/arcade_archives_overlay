@@ -6,6 +6,13 @@ This project include horizontal and vertical bezels for the following resolution
  - 2560x1080px
  - 1920x1080px
 
+ ## Retroarch Virtual Console Overlay
+
+ Added the Virtual Console Overlay used on Switch created by [NecroPoster](https://forums.libretro.com/u/NecroPoster) from Libretro Forums and I made an ultrawide version of it.
+
+  - 2560x1080px
+  - 1920x1080px
+
 ## How to use the bezels
  1. Clone or download the project in your PC.
  2. Load Retroarch.
