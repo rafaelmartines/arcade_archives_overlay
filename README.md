@@ -13,6 +13,8 @@ This project include horizontal and vertical bezels for the following resolution
   - 2560x1080px
   - 1920x1080px
 
+There is a PDN File for [Paint.net](https://www.getpaint.net/) (courtesy from NecroPoster) where you can add your Mii icon from your [Nintendo Account](https://accounts.nintendo.com/), if you have one, which should be on 140x140 pixels, but you can resize it for 70x70 pixels and just save the PNG file over the original overlay.
+
 ## How to use the bezels
  1. Clone or download the project in your PC.
  2. Load Retroarch.
